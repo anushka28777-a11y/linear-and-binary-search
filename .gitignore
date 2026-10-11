@@ -1,0 +1,10 @@
+# Compiled programs
+search_demo
+search_demo.exe
+*.o
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
